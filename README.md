@@ -52,7 +52,7 @@ s=FloatSlider(75, max=99), l=FloatSlider(50, max=99), center=['light', 'dark']);
 
   
 
-![](https://lh5.googleusercontent.com/DMW-L2c1OdwqJyExpKj1-1kACRZ7Adc4Y6V5Lba-mnBM8t7aio8uELnrQWFnwDf997WxS6_bMyniVvZj0Qxf1djrnc3t3MEQGgyLTyxE3h3VqAdsDD-_eApfSAtu8uWey74k_bAg)
+![](https://github.com/jun-sato/jupyter_interactive/blob/master/colorbar.gif)
 
 ### グラフを動かす
 
@@ -62,7 +62,7 @@ s=FloatSlider(75, max=99), l=FloatSlider(50, max=99), center=['light', 'dark']);
 
 ただ、僕はこういうの記述量多くなるのであまり使用していません。笑
 
-pandasのplot機能やseabornで実務上は満足しているので、自己満足の世界です(個人の感想です)。![](https://lh3.googleusercontent.com/WTPuH2I_74ZFlqFIlmacMatxD7fQIiaWjEenGtD9jAy0pBUCYhHxZ2SXiWQXFmvAybEpE5UVqMKiKfhD7U01el7YFikfj2VGiZpwgM3-1bBi0x_UTkeK2h5gPUOb61XQ7uabVryp)
+pandasのplot機能やseabornで実務上は満足しているので、自己満足の世界です(個人の感想です)。![](https://github.com/jun-sato/jupyter_interactive/blob/master/graph.gif)
 
 #### plotly
 
@@ -72,7 +72,7 @@ pandasのplot機能やseabornで実務上は満足しているので、自己満
 
   
   
-![](https://lh5.googleusercontent.com/idAo3VsQbjhqEMkur0oBH3IX4LFH1LpZaCEUEQnpyzjzxIShNrlDMlLapqn-v2FaUM7pRqsSxT-g1hHfeVb0bSRnEehi0VCD-SZb84B8NID8rXgxEvHNH9ZLEkXM71RkkpmpPr3X)
+![](https://github.com/jun-sato/jupyter_interactive/blob/master/plotly.gif)
 
 ### テーブルデータを動かす
 
@@ -110,6 +110,6 @@ qgrid_widget
 
   
 
-![](https://lh6.googleusercontent.com/uBcEDuBhFEjdhsGGF0kWttg5TrY6jHtgKUOpNqJ8oydKqij3mOJCIrRkJI6fBhezW_HnRv6NkQEIbnmB-UBfqMudFGr_4N-g1vOLYbBSaCAo2jXpVvyQkRglVPQ0ezY8Ewb1ohgE)
+![](https://github.com/jun-sato/jupyter_interactive/blob/master/table.gif)
 
 他にもインタラクティブなライブラリはいっぱいありますが、結局導入して便利かどうかはケースバイケースだと思っています。いいライブラリがあったら教えてください。
