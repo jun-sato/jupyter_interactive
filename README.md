@@ -66,7 +66,7 @@ pandasのplot機能やseabornで実務上は満足しているので、自己満
 
 #### plotly
 
-[kaggleのツールドフランスデータセット]([https://www.kaggle.com/ralle360/historic-tour-de-france-dataset](https://www.kaggle.com/ralle360/historic-tour-de-france-dataset))
+[kaggleのツールドフランスデータセット](https://www.kaggle.com/ralle360/historic-tour-de-france-dataset)
 
 からのデータを利用しました。国別のステージ優勝者数を示しています。
 
